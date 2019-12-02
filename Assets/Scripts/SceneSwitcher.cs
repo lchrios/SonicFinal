@@ -33,6 +33,18 @@ public class SceneSwitcher : MonoBehaviour
         {
             SceneManager.LoadScene("Level3");
         }
+        else if (Input.GetKeyDown(KeyCode.Alpha4))
+        {
+            SceneManager.LoadScene("Level4");
+        }
+        else if (Input.GetKeyDown(KeyCode.L))
+        {
+            SceneManager.LoadScene(6);
+        }
+        else if (Input.GetKeyDown(KeyCode.B))
+        {
+            SceneManager.LoadScene(9);
+        }
         else if (Input.GetKeyDown(KeyCode.G))
         {
             SceneManager.LoadScene("GameOver");
@@ -44,7 +56,11 @@ public class SceneSwitcher : MonoBehaviour
         else if (Input.GetKeyDown(KeyCode.N))
         {
             SceneManager.LoadScene("FinishedGame");
-        } else if (Input.anyKey && this.isStart)
+        }else if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Application.Quit();
+        }
+        else if (Input.anyKey && this.isStart)
         {
             SceneManager.LoadScene("MainScene");
         }

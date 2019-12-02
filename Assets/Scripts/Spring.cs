@@ -13,6 +13,7 @@ public class Spring : MonoBehaviour
     void Start()
     {
         this.GetComponent<AudioSource>().clip = this.springSound;
+        this.sonic = GameObject.FindGameObjectWithTag("Player").GetComponent<Sonic>();
     }
 
     // Update is called once per frame

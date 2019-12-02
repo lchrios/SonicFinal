@@ -73,6 +73,9 @@ public class Sonic : MonoBehaviour
         if (collision.transform.tag.Equals("ring"))
         {
             this.score++;
+        } else if (collision.CompareTag("boss"))
+        {
+            this.damage();
         }
     }
 
@@ -127,16 +130,17 @@ public class Sonic : MonoBehaviour
 
     public void respawn()
     {
-        this.resNum--;
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        /*this.resNum--;
         if (resNum == 0)
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+            SceneManager.LoadScene(7);
         }
         else
         {
             this.transform.position = this.spawnRef.position;
-        }
-        
+        }*/
+
     }
 
 
@@ -150,7 +154,7 @@ public class Sonic : MonoBehaviour
         else
         {
             this.score += -2;
-            if (this.score <= 0 && dam)
+            if (this.score <= 0)
             {
                 respawn();
                 this.dam = false;

@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Boss2 : MonoBehaviour
 {
@@ -23,6 +24,10 @@ public class Boss2 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (Input.GetKeyDown(KeyCode.P))
+        {
+            SceneManager.LoadScene(8);
+        }
         if (attacking)
         {
             if (canShoot)
@@ -41,7 +46,7 @@ public class Boss2 : MonoBehaviour
     void shoot()
     {
         canShoot = false;
-        Instantiate(bullet, this.transform);
+        Instantiate(bullet, this.transform, true);
         StartCoroutine(rechargeShot());
     }
 
@@ -65,5 +70,26 @@ public class Boss2 : MonoBehaviour
     {
         yield return new WaitForSeconds(Random.Range(4.0f, 8.0f));
         this.canExplode = true;
+    }
+
+    void damage()
+    {
+        this.stats.health--;
+        if (this.stats.health == 0)
+        {
+            SceneManager.LoadScene(8);
+        }
+        this.canExplode = true;
+        this.canShoot = true;
+        this.shotsLeft = 20;
+        this.attacking = true;
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            damage();
+        }
     }
 }

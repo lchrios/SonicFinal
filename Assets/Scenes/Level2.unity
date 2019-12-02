@@ -2008,6 +2008,11 @@ PrefabInstance:
       propertyPath: maxY
       value: 
       objectReference: {fileID: 104774392}
+    - target: {fileID: 452496611705642556, guid: 8f3f0f5b2d0ffc443ac98ae6758f3c83,
+        type: 3}
+      propertyPath: oof
+      value: 
+      objectReference: {fileID: 8300000, guid: bfb1a4f9317664728b20981bdff233a0, type: 3}
     - target: {fileID: 452496611705642559, guid: 8f3f0f5b2d0ffc443ac98ae6758f3c83,
         type: 3}
       propertyPath: m_Name
@@ -11420,7 +11425,7 @@ PrefabInstance:
     - target: {fileID: 2676366939871244731, guid: 61a311d7311774231bf197f48d08c778,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2676366939871244731, guid: 61a311d7311774231bf197f48d08c778,
         type: 3}

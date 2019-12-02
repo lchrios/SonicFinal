@@ -7,7 +7,9 @@ public class Boss1 : MonoBehaviour
     public BossStats stats;
     public Rigidbody2D rb;
     public Animator anim;
-    public GameObject player;
+    public GameObject player,
+                      nextStage,
+                      spawnRef;
     public bool attacking,
                 canExplode,
                 canDash;
@@ -27,12 +29,25 @@ public class Boss1 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+        if (Input.GetKeyDown(KeyCode.P))
+        {
+            Debug.Log("*se muere*");
+            Instantiate(nextStage, spawnRef.transform.position, Quaternion.identity);
+            Destroy(gameObject);
+        }
+
         if (attacking)
         {
             Vector2 heading = player.transform.position - this.transform.position;
+            if (Input.GetKeyDown(KeyCode.P))
+            {
+                Debug.Log("*se muere*");
+                Instantiate(nextStage, spawnRef.transform.position, Quaternion.identity);
+                Destroy(gameObject);
+            }
 
-            
-            if (canDash)
+            /*if (canDash)
             {
                 dash(heading);
             }
@@ -40,7 +55,7 @@ public class Boss1 : MonoBehaviour
             if (canExplode)
             {
                 explode();
-            }
+            }*/
         }
         
     }
@@ -49,6 +64,7 @@ public class Boss1 : MonoBehaviour
     {
         dashesLeft--;
         rb.AddForce(heading * 25);
+        Vector2.MoveTowards(transform.position, player.transform.position, this.stats.movSpeed * Time.deltaTime);
         StartCoroutine(rechargeDash());
         if (dashesLeft == 0)
         {
@@ -97,12 +113,14 @@ public class Boss1 : MonoBehaviour
         }
     }
 
-    void damage()
+    IEnumerator damage()
     {
         this.stats.health--;
         if (this.stats.health == 0)
         {
             Destroy(gameObject, this.stats.stunTime);
+            yield return new WaitForSeconds(this.stats.stunTime);
+            Instantiate(nextStage, this.transform);
         }
         else
         {

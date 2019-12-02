@@ -21,7 +21,7 @@ public class Boss0 : MonoBehaviour
         this.player = GameObject.FindGameObjectWithTag("Player");
         this.stats = new BossStats(10, 0.0f, 10.0f, 1.2f, 2.5f, true);
         this.dying = false;
-        this.attacking = false;
+        this.attacking = true;
         this.canDrop = true;
         this.maxBombsPerShift = 9;
     }
@@ -29,7 +29,12 @@ public class Boss0 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        float dist = Vector2.Distance(this.transform.position, player.transform.position);
+        if (Input.GetKeyDown(KeyCode.P))
+        {
+            Debug.Log("*se muere*");
+            Instantiate(nextStage, spawnRef.transform.position, Quaternion.identity);
+            Destroy(gameObject);
+        }
         moveToPlayer();
         // Modo ataque 
         if (attacking)
@@ -71,28 +76,32 @@ public class Boss0 : MonoBehaviour
         }
     }
 
-    void damage()
+    public IEnumerator damage()
     {
         this.stats.health--;
+        Debug.Log(this.stats.health);
         if(this.stats.health == 0)
         {
-            this.dying = true;
+            Debug.Log("muriendo");
             Destroy(gameObject, this.stats.stunTime);
+            yield return new WaitForSeconds(this.stats.stunTime);
+            Instantiate(nextStage, this.transform);
         } else
         {
             attacking = true;
             maxBombsPerShift = 9;
-            StartCoroutine(moveToPlayer());
+            //StartCoroutine(moveToPlayer());
         }
     }
 
-    string moveToPlayer()
+    void moveToPlayer()
     {
         float dist = player.transform.position.x - transform.position.x;
-        if (dist >= -0.5f && dist <= 0.5f && attacking)
+        //Debug.Log(dist);
+        if (Mathf.Abs(dist) <= 0.5f && attacking)
         {
-            transform.Translate(Vector3.right * this.stats.movSpeed * Time.deltaTime * (attacking ? 1.0f : 0.0f));
+            Debug.Log("YIPIYYA");
+            transform.Translate(this.stats.movSpeed * Time.deltaTime, 0, 0);
         }
-        return "";
     }
 }
