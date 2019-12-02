@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: 346e14f0b10864819bbe21a3e0b56f78
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: e96d6af6ac091499d8d23c0e8133b330
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 10cf5af39cfe53044b743fa6e02cc170
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 16f4911cd4152e44bb4b544900e5172d
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 098401dd59e0f435b84f74abf3ba487a
+  - enabled: 1
+    path: Assets/Scenes/TailsDemo.unity
+    guid: 849b6fa401bc74f6590960b78d2272ee
+  - enabled: 1
+    path: Assets/Scenes/TailsScene.unity
+    guid: bedc4f84c49c24e37a9fe075db359678
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 02fb93656bfbb5748976d7a6c75ac572
+  - enabled: 1
+    path: Assets/Scenes/FinishedGame.unity
+    guid: dd44e84634e93ff4f8f8f6d648389d60
+  - enabled: 1
+    path: Assets/Scenes/BossScene.unity
+    guid: 237c7ba6e6b0f1b4db8e40127ffc8757
+  m_configObjects: {}

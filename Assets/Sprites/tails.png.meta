@@ -1,0 +1,3607 @@
+fileFormatVersion: 2
+guid: ed0ee30c291fe4d5ba3547b82bdd2413
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4301928253860049386
+    second: tails_0
+  - first:
+      213: -4331415491139519175
+    second: tails_1
+  - first:
+      213: -7484979947447980276
+    second: tails_2
+  - first:
+      213: -5340278236260481971
+    second: tails_3
+  - first:
+      213: 8928779344110827583
+    second: tails_4
+  - first:
+      213: 8822021257671298475
+    second: tails_5
+  - first:
+      213: 8072412385387495913
+    second: tails_6
+  - first:
+      213: -3643454959324568856
+    second: tails_7
+  - first:
+      213: 25120619714224668
+    second: tails_8
+  - first:
+      213: -2883036782114657295
+    second: tails_9
+  - first:
+      213: 8772378394754534825
+    second: tails_10
+  - first:
+      213: 7926582179117355331
+    second: tails_11
+  - first:
+      213: 8480994005189699908
+    second: tails_12
+  - first:
+      213: -795115349476855913
+    second: tails_13
+  - first:
+      213: 2317643753482792593
+    second: tails_14
+  - first:
+      213: 7021181022208298204
+    second: tails_15
+  - first:
+      213: 1933453574283688327
+    second: tails_16
+  - first:
+      213: 8344265050888755059
+    second: tails_17
+  - first:
+      213: -8271822144770529380
+    second: tails_18
+  - first:
+      213: 6333224997761029689
+    second: tails_19
+  - first:
+      213: -5398589182683482674
+    second: tails_20
+  - first:
+      213: 2986087433988080139
+    second: tails_21
+  - first:
+      213: 7379118499706217417
+    second: tails_22
+  - first:
+      213: -1928921869731101077
+    second: tails_23
+  - first:
+      213: 7569720473656237706
+    second: tails_24
+  - first:
+      213: -5677999372042060822
+    second: tails_25
+  - first:
+      213: 4578939875617745038
+    second: tails_26
+  - first:
+      213: 621744050541376098
+    second: tails_27
+  - first:
+      213: 4596387924343650213
+    second: tails_28
+  - first:
+      213: 8789884669725282129
+    second: tails_29
+  - first:
+      213: -1754799579956710173
+    second: tails_30
+  - first:
+      213: -2659513258330918820
+    second: tails_31
+  - first:
+      213: -8019542053105728798
+    second: tails_32
+  - first:
+      213: 1404737521288148853
+    second: tails_33
+  - first:
+      213: 7309951604484214542
+    second: tails_34
+  - first:
+      213: -1310901544235078354
+    second: tails_35
+  - first:
+      213: 6570828214455168709
+    second: tails_36
+  - first:
+      213: -1358722091258565822
+    second: tails_37
+  - first:
+      213: 5080978021706930031
+    second: tails_38
+  - first:
+      213: 1767140887971748404
+    second: tails_39
+  - first:
+      213: 802107421615377293
+    second: tails_40
+  - first:
+      213: -2310811198497039258
+    second: tails_41
+  - first:
+      213: -2871374115124055002
+    second: tails_42
+  - first:
+      213: -7179893940867554331
+    second: tails_43
+  - first:
+      213: 554525098796680917
+    second: tails_44
+  - first:
+      213: -4243162402544431172
+    second: tails_45
+  - first:
+      213: -9216863366345204373
+    second: tails_46
+  - first:
+      213: 7850341157591863935
+    second: tails_47
+  - first:
+      213: -6522138581182936148
+    second: tails_48
+  - first:
+      213: -8768116774287068758
+    second: tails_49
+  - first:
+      213: -1478094398352171065
+    second: tails_50
+  - first:
+      213: -3141933012226985370
+    second: tails_51
+  - first:
+      213: -8538096234508395924
+    second: tails_52
+  - first:
+      213: 4760692982368910065
+    second: tails_53
+  - first:
+      213: 7205909584907588592
+    second: tails_54
+  - first:
+      213: -1427676266204499043
+    second: tails_55
+  - first:
+      213: -4636596569267102712
+    second: tails_56
+  - first:
+      213: -1614265418337386383
+    second: tails_57
+  - first:
+      213: 4558366304110705317
+    second: tails_58
+  - first:
+      213: -2534608911970920474
+    second: tails_59
+  - first:
+      213: -2995534903086657483
+    second: tails_60
+  - first:
+      213: -4062307786637485830
+    second: tails_61
+  - first:
+      213: 6425410992771784403
+    second: tails_62
+  - first:
+      213: -3061254958118416724
+    second: tails_63
+  - first:
+      213: 4403928624277228243
+    second: tails_64
+  - first:
+      213: -4992696519177401243
+    second: tails_65
+  - first:
+      213: -6695706583659161099
+    second: tails_66
+  - first:
+      213: -938809366096011505
+    second: tails_67
+  - first:
+      213: 4671622191730332518
+    second: tails_68
+  - first:
+      213: -4067844908894382596
+    second: tails_69
+  - first:
+      213: 4533402034298811401
+    second: tails_70
+  - first:
+      213: -8843350579672613848
+    second: tails_71
+  - first:
+      213: -8129709191094100556
+    second: tails_72
+  - first:
+      213: 6885147470413582220
+    second: tails_73
+  - first:
+      213: 4180217085624894821
+    second: tails_74
+  - first:
+      213: 3702445463053964586
+    second: tails_75
+  - first:
+      213: 962495930125915805
+    second: tails_76
+  - first:
+      213: -2084755107155284402
+    second: tails_77
+  - first:
+      213: 2582750494772886628
+    second: tails_78
+  - first:
+      213: -6426588297751239198
+    second: tails_79
+  - first:
+      213: -4268108261270478105
+    second: tails_80
+  - first:
+      213: 1617007666988552533
+    second: tails_81
+  - first:
+      213: 2762068445774427606
+    second: tails_82
+  - first:
+      213: -605593694099115813
+    second: tails_83
+  - first:
+      213: 3004229204128086482
+    second: tails_84
+  - first:
+      213: 7737507227525138702
+    second: tails_85
+  - first:
+      213: 6849485460460449368
+    second: tails_86
+  - first:
+      213: 1853978586154491721
+    second: tails_87
+  - first:
+      213: 1148248516283826780
+    second: tails_88
+  - first:
+      213: 606911204330811535
+    second: tails_89
+  - first:
+      213: -3766212505735454800
+    second: tails_90
+  - first:
+      213: -3716887935564135396
+    second: tails_91
+  - first:
+      213: 951127867371733117
+    second: tails_92
+  - first:
+      213: 7402183678872428161
+    second: tails_93
+  - first:
+      213: 8019753134405992538
+    second: tails_94
+  - first:
+      213: 9018045544695391454
+    second: tails_95
+  - first:
+      213: 8909192248435416497
+    second: tails_96
+  - first:
+      213: -5999574820353822606
+    second: tails_97
+  - first:
+      213: -7560376688657503579
+    second: tails_98
+  - first:
+      213: 7452478033170425968
+    second: tails_99
+  - first:
+      213: -4414658738920973467
+    second: tails_100
+  - first:
+      213: 5082470781161393719
+    second: tails_101
+  - first:
+      213: -1228915875344837338
+    second: tails_102
+  - first:
+      213: 8443120479022078389
+    second: tails_103
+  - first:
+      213: -2480660006518941771
+    second: tails_104
+  - first:
+      213: -8424032492196130319
+    second: tails_105
+  - first:
+      213: -2213241284587543220
+    second: tails_106
+  - first:
+      213: -5676496389948601592
+    second: tails_107
+  - first:
+      213: -4366385274193895268
+    second: tails_108
+  - first:
+      213: -2493460188099834098
+    second: tails_109
+  - first:
+      213: -5596421243809654519
+    second: tails_110
+  - first:
+      213: -6392343570871446840
+    second: tails_111
+  - first:
+      213: -4002933338814715318
+    second: tails_112
+  - first:
+      213: 661286344410151123
+    second: tails_113
+  - first:
+      213: -5804069517484383236
+    second: tails_114
+  - first:
+      213: -668572749862836694
+    second: tails_115
+  - first:
+      213: 5349980591555841220
+    second: tails_116
+  - first:
+      213: 4958661804327107128
+    second: tails_117
+  - first:
+      213: 6840351028559178330
+    second: tails_118
+  - first:
+      213: -3157044410429860901
+    second: tails_119
+  - first:
+      213: -6127443743496413391
+    second: tails_120
+  - first:
+      213: -9089875994198651358
+    second: tails_121
+  - first:
+      213: 3067947488491830117
+    second: tails_122
+  - first:
+      213: -4194597615887299544
+    second: tails_123
+  - first:
+      213: 2019926728600495881
+    second: tails_124
+  - first:
+      213: 4843999503741905098
+    second: tails_125
+  - first:
+      213: 2912010930760907081
+    second: tails_126
+  - first:
+      213: -9154017612045890013
+    second: tails_127
+  - first:
+      213: 2628899639924038250
+    second: tails_128
+  - first:
+      213: 781481699663463994
+    second: tails_129
+  - first:
+      213: -5749064397632283348
+    second: tails_130
+  - first:
+      213: 2707461830141508269
+    second: tails_131
+  - first:
+      213: -2386477597468980669
+    second: tails_132
+  - first:
+      213: 6602283389091039705
+    second: tails_133
+  - first:
+      213: 7370471277152211605
+    second: tails_134
+  - first:
+      213: 8485869697337354376
+    second: tails_135
+  - first:
+      213: 271630982907595403
+    second: tails_136
+  - first:
+      213: 7008582256759080541
+    second: tails_137
+  - first:
+      213: 7930921805461019011
+    second: tails_138
+  - first:
+      213: 1856197783519689335
+    second: tails_139
+  - first:
+      213: -8518878419866664918
+    second: tails_140
+  - first:
+      213: -2146992987067279861
+    second: tails_141
+  - first:
+      213: -3335213564041013704
+    second: tails_142
+  - first:
+      213: -1746542454692698596
+    second: tails_143
+  - first:
+      213: -3954614568770474318
+    second: tails_144
+  - first:
+      213: 3306945729240270697
+    second: tails_145
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tails_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 518
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3efec0ee453432e959e5091a29e08d
+      internalID: 4301928253860049386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 518
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96c59343ab7c4fee9d23b94b5aaabd0
+      internalID: -4331415491139519175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 518
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be76fd04c3384bf6a37de57f7b469c9
+      internalID: -7484979947447980276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 518
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2daab1a78eb4ac9bba0ebb3b14e79e
+      internalID: -5340278236260481971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 518
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb635dbcb5264cc6921e2a2b7b0cc9c
+      internalID: 8928779344110827583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 518
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a29cc970ef943988d6235639569efa
+      internalID: 8822021257671298475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 518
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6bb8bb91b63442fa57bde85545c67e
+      internalID: 8072412385387495913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_7
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 518
+        width: 86
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6582ca8ad30d43178d90efdbb8cbdc5
+      internalID: -3643454959324568856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_8
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 518
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326b7098335374cf7b82be37e7c2855c
+      internalID: 25120619714224668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_9
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 519
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c16549a615fb403baaa0fb88d61b727
+      internalID: -2883036782114657295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_10
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 522
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decdfc00e62d84cb793fb01364bb3082
+      internalID: 8772378394754534825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_11
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 518
+        width: 83
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58fd907acea042478f7686add5b6c97
+      internalID: 7926582179117355331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_12
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 520
+        width: 82
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d68a4f20bd147e9b6af9daf59bf194
+      internalID: 8480994005189699908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_13
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 521
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21da215c2a98c4623b26828bc48df7d3
+      internalID: -795115349476855913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 453
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431acae098ae44ed1a450d0ba631b8c2
+      internalID: 2317643753482792593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 453
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b06f3f66cd5a4e7fbfb3436910a6dfb
+      internalID: 7021181022208298204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_16
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 453
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f898978b5314ae98909d583d7356fb
+      internalID: 1933453574283688327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_17
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 453
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b56241689c14286b9efec7a93e7b83
+      internalID: 8344265050888755059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_18
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 453
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f726dc41526e54892b5bea3a58e2f646
+      internalID: -8271822144770529380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_19
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 457
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626866af0ebed4181badf5bd8aeb077e
+      internalID: 6333224997761029689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_20
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 483
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123a25a14722047bd9e67fe1c7e0ccb7
+      internalID: -5398589182683482674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_21
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 458
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96855171dcffe470ba3ccdea17e9ae39
+      internalID: 2986087433988080139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 458
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4bbcad0b9034e1c9ad34ebd5331db6
+      internalID: 7379118499706217417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_23
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 458
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b270d4e3eb34477b14b207e34f03ea
+      internalID: -1928921869731101077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_24
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 458
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52906bc728acb4a879cc0f2c31e36f07
+      internalID: 7569720473656237706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_25
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 458
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b35468c0ae134391855b969e2652e48
+      internalID: -5677999372042060822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_26
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 458
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3650cfc3bec04a42976008615d3e7cb
+      internalID: 4578939875617745038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_27
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 458
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021906a6f944f4fd7a625656473f027c
+      internalID: 621744050541376098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_28
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 458
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1b3f5c2b8e340d3aadeefdcc6a2caa
+      internalID: 4596387924343650213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_29
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 458
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bc80d686daa4c94a0f2c8079d52a19
+      internalID: 8789884669725282129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_30
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 457
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efb2e8297cd74b8281984a603687f2b
+      internalID: -1754799579956710173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_31
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 457
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d225db39256f45ef849bbbfeaaf4a22
+      internalID: -2659513258330918820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_32
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 457
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08105e24ea0624b5a8615750a015dcc1
+      internalID: -8019542053105728798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_33
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 457
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7174f7e4541684956a9251d6f5016a0d
+      internalID: 1404737521288148853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_34
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 452
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f21b3a5634414586bcaf0a1b98616c6
+      internalID: 7309951604484214542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_35
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 452
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d0f207ac6e646cf83c1db96636feaa
+      internalID: -1310901544235078354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 401
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2871b73b0e8ee470b9df76fdc853fac1
+      internalID: 6570828214455168709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_37
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 401
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89463956fc6bd41cbac4f5a67bc6da88
+      internalID: -1358722091258565822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_38
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 400
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd98b6d35d06d48eba92eca20276fe0e
+      internalID: 5080978021706930031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_39
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 400
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478f91b0fa3b840d291153c0af9a5d3f
+      internalID: 1767140887971748404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_40
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 400
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0ad129e76d142b1bfbae29d1b816d4
+      internalID: 802107421615377293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_41
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 401
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c926800fedff4620ba9286649063111
+      internalID: -2310811198497039258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_42
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 401
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cd3dfd257c44d0d954290f3d285138
+      internalID: -2871374115124055002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_43
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 401
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cbf0dc997d34c08822183de5cde555
+      internalID: -7179893940867554331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_44
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 401
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39533df25d784d6bab972bb39f07853
+      internalID: 554525098796680917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_45
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 401
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9f5680cdda548b7a445d2e7e027ea4
+      internalID: -4243162402544431172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_46
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 401
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90b7e0a48c8a4f46acc73b1fa9bed8a
+      internalID: -9216863366345204373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_47
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 401
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4bbd9bb84bf4889840c824bf299822
+      internalID: 7850341157591863935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_48
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 401
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20ac3a25d6a547edb2a66a3b8e19d33
+      internalID: -6522138581182936148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_49
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 401
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce8787561bdb4090b211a5ffcfd580d
+      internalID: -8768116774287068758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_50
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 401
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7679665a8c0f497c912a701461f10fe
+      internalID: -1478094398352171065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_51
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 401
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c535fd07cd62410ba88567620f13255
+      internalID: -3141933012226985370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_52
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 400
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e5490ec3252483a8303cc533447fd9
+      internalID: -8538096234508395924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_53
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 337
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c55ea9527e3f41f0b59b153d0aae926
+      internalID: 4760692982368910065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_54
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 337
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eef54c11eeb84680b93a4bd6d6da711
+      internalID: 7205909584907588592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_55
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 337
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6e0e2f9f3574a39ae67739de8790cf
+      internalID: -1427676266204499043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_56
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 337
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f551cc131cd2644df8e3ab32bcb90b20
+      internalID: -4636596569267102712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_57
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 337
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedee59a9ff64455eaa56eca6f4e670b
+      internalID: -1614265418337386383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_58
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 337
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695437742b3b346ce92d610945c44720
+      internalID: 4558366304110705317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_59
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 337
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa35689b19894117a6e323e7f68c891
+      internalID: -2534608911970920474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_60
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 337
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a19cc03d1d2040dcaf344a14d8c52c0
+      internalID: -2995534903086657483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_61
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 337
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a3271ff41784e55a50afa14e5261d2
+      internalID: -4062307786637485830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_62
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 337
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92136b8a5985945bf97dfc5dc441d585
+      internalID: 6425410992771784403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_63
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 337
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b630173e652cb47249f56c8a32ba013d
+      internalID: -3061254958118416724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_64
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 337
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275c62bac3def48f2915100e0fd7f9c2
+      internalID: 4403928624277228243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_65
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 329
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcff3c7e24c74458e800335ccc142588
+      internalID: -4992696519177401243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_66
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 329
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe13abf7968504073b485f4a5f8fb939
+      internalID: -6695706583659161099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_67
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 330
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a262967bbbd42de8941b66fcfe94bc
+      internalID: -938809366096011505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_68
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 328
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2ad1cc6fec54591a545fce84631414
+      internalID: 4671622191730332518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_69
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 281
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bbd18b032b842fb9392c271c9c84af
+      internalID: -4067844908894382596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_70
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b5c4e9886b5466fb6a4b36b0f34c1a
+      internalID: 4533402034298811401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_71
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 281
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688d0c1209bca479fbf2448791683d37
+      internalID: -8843350579672613848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_72
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 281
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affe12db2d9bc43e486dc5cace9b2b06
+      internalID: -8129709191094100556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_73
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 281
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d47cbc397064407d8188da16986f19f
+      internalID: 6885147470413582220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_74
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 281
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0b95f367c98477e8ccc8b61fbce15f
+      internalID: 4180217085624894821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_75
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 273
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b7fb205d3c84c7aa9fbaeabf4b69f0
+      internalID: 3702445463053964586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_76
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 273
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe203ec61028428d9a3e2ecfcb9c83c
+      internalID: 962495930125915805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_77
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 273
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7295e86b0074a058077dc37485974c
+      internalID: -2084755107155284402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_78
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 273
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fe039402b604b8cb17c92d1028c895
+      internalID: 2582750494772886628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_79
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 273
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dbc474cca1b4cd380eeff9c00dbdf7
+      internalID: -6426588297751239198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_80
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 273
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2731d4876e484ccda8ec6098b6e43d5
+      internalID: -4268108261270478105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_81
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 288
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca66d566e47ac448885213d2de746d42
+      internalID: 1617007666988552533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_82
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 289
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f32cd3c2510e42d1ac801eebbb4cde1
+      internalID: 2762068445774427606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_83
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 288
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104d49e2a87e2478793b97900c345ea7
+      internalID: -605593694099115813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_84
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 286
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23af8c92cd1b4b62bb2142319b9709b
+      internalID: 3004229204128086482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_85
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 285
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a23d921a2c64e0fb091769e60746ca
+      internalID: 7737507227525138702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_86
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 287
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dc539426fb64cd99271fbc63546cb3
+      internalID: 6849485460460449368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_87
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 233
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ab19ecd11a4465a84c6a53defcb5f8
+      internalID: 1853978586154491721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_88
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 233
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b4e30a77d014b8a8e0ef45fc3a5fa0
+      internalID: 1148248516283826780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_89
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 233
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b0b6730c0f347e8aaaf7cb3689b935
+      internalID: 606911204330811535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_90
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 233
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c493e761f1ca441d99cc6631a6ea581
+      internalID: -3766212505735454800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_91
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 232
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b58f551ad174da8a704dd816099b60
+      internalID: -3716887935564135396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_92
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 228
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bac035876b8b4227a0335085656866d
+      internalID: 951127867371733117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_93
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 228
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b388e6e0ea952431dbe45ce20a02bbe0
+      internalID: 7402183678872428161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_94
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 228
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f436806983c848858905cd1b32289c9
+      internalID: 8019753134405992538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_95
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 228
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667c81d9f0ece4e7bb3e1b7cf66c305a
+      internalID: 9018045544695391454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_96
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 228
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23becbaddcb146c081a1ec3f9f547dc
+      internalID: 8909192248435416497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_97
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 228
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4d6c02c0c714e7782de731ea6cf1ef
+      internalID: -5999574820353822606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_98
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 228
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb465db698044eeebbc6507adb99ee3
+      internalID: -7560376688657503579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_99
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 228
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156903b2a487c48b7bb790d62a0f1098
+      internalID: 7452478033170425968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_100
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 228
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2bc4bd494c04c07ba11c39643adc03
+      internalID: -4414658738920973467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_101
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 228
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38f310c4d825483496180dc200c2315
+      internalID: 5082470781161393719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_102
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 228
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e1ef91f477b4d94a1b790222dcf51e
+      internalID: -1228915875344837338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_103
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 228
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d6ff70d76274ff991a89c53b9ce85e
+      internalID: 8443120479022078389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_104
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 228
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d890aebe1db134f04a38e65294378337
+      internalID: -2480660006518941771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_105
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 177
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9922e2fb8d0864f2ab64c29ca71952c2
+      internalID: -8424032492196130319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_106
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 179
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1660bef429420409eb762f464fc6a3a1
+      internalID: -2213241284587543220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_107
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 177
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758934344e36c4eb399f22e0e9c97c97
+      internalID: -5676496389948601592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_108
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 178
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dad8ee0a1b941b5a880b854b4cfa0b
+      internalID: -4366385274193895268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_109
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 177
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507a60118f4bf4a9799ee8cff3565a45
+      internalID: -2493460188099834098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_110
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 177
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8126486eff65a40f8af6ff0e8c178bd0
+      internalID: -5596421243809654519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_111
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 177
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a669fe96a45b247568774ecd5357882f
+      internalID: -6392343570871446840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_112
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 177
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fe95e3376374c41b65b7edd5960cdf
+      internalID: -4002933338814715318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_113
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 175
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7400887edc0a4dfaa55ac964e134bcc
+      internalID: 661286344410151123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_114
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 174
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e9f4c22a75844289b3d8bb4b9817dd
+      internalID: -5804069517484383236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_115
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 175
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6cc54a87e32495f867fafbca7ffada
+      internalID: -668572749862836694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_116
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 174
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69315533ee1124e2793aa3d71ab65ad3
+      internalID: 5349980591555841220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_117
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 176
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9ba156368d14cbc94bccb0ae04ce32
+      internalID: 4958661804327107128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_118
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 176
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f829c8b9f7840f5940003587b1c532
+      internalID: 6840351028559178330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_119
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 176
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d70c23867ee4293950b158c0bf337c
+      internalID: -3157044410429860901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_120
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 176
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb933c35d34be461ba3157c317be3d98
+      internalID: -6127443743496413391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_121
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 176
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37eb586ef31ee4dffa24ccb1e0a85c51
+      internalID: -9089875994198651358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_122
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 176
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6a16f192a0a48a88be35167a4918a1
+      internalID: 3067947488491830117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_123
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 176
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8011df91fc04261a55f85ba4e401f4
+      internalID: -4194597615887299544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_124
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 176
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2166808ab93b14768a6ccb0041906ac4
+      internalID: 2019926728600495881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_125
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 176
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e677f79ccbca74c4fb8f6eb606a181d7
+      internalID: 4843999503741905098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_126
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 176
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9757b5435c04f31bf033f7af0b1e03
+      internalID: 2912010930760907081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_127
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 176
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de394afba8a9473ebf187ff39723d24
+      internalID: -9154017612045890013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_128
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 133
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb784a0ed7a240db901730869e95ff7
+      internalID: 2628899639924038250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_129
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 133
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac36f04d263474adc8104c527089f04c
+      internalID: 781481699663463994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_130
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 133
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7992bf74951cb4435b3868a2bc7ad90b
+      internalID: -5749064397632283348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_131
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 133
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dc12730615d4baeaaab3f3b89b935c
+      internalID: 2707461830141508269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_132
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 133
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359ed0422b71c497eb255791f460cea1
+      internalID: -2386477597468980669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_133
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 135
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8976153ed98ea4509b7598c7d4f03a60
+      internalID: 6602283389091039705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_134
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 135
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95b655ae8754402d8c3a518bfaed58e
+      internalID: 7370471277152211605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_135
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 135
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a52cc4b793724a558bcabcce6da386c
+      internalID: 8485869697337354376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_136
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 135
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de183df277ea54b5abf3fca64ac69928
+      internalID: 271630982907595403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_137
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 135
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2580930e1a24047b4f9132e1c3db41
+      internalID: 7008582256759080541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_138
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 135
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38768b217dcd5433a9bf9916d198a042
+      internalID: 7930921805461019011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_139
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 135
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e49719a951a458983e47ccd2c68c8a
+      internalID: 1856197783519689335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_140
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 135
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5195cf388ca4c46a7b34bb869efa21
+      internalID: -8518878419866664918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 120
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc082c8ddc49d40eaa9310c374d62a59
+      internalID: -2146992987067279861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_142
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 30
+        width: 120
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad1a01f1959f47459157841c089c377
+      internalID: -3335213564041013704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_143
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 29
+        width: 120
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c891685d750945539ca0d7bd5d8a175
+      internalID: -1746542454692698596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_144
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 27
+        width: 120
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595feec7b36ca4de09440da6829b7ba7
+      internalID: -3954614568770474318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails_145
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 42
+        width: 240
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9f4097cff4844ab97788d16a0aa064
+      internalID: 3306945729240270697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
